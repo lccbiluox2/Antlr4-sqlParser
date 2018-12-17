@@ -1,2 +1,2 @@
-# Antlr4-sqlParser
-spark,hive,等SQL解析案例
+# ANTLR4-SqlBase
+剥离的模块，用于查看Spark SQL生成的语法树
